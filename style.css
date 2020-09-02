@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+#body{
+    background-color: grey;
+    text-align: justify;
+}
+#div5{
+    margin-top: 3vh;
+    background-color: rgb(201, 200, 200);
+}
